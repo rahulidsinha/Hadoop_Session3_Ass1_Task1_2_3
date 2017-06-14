@@ -1,0 +1,44 @@
+[acadgild@localhost ~]$ hadoop jar /home/acadgild/workspace/S3_A1_T1_2_3.jar /temp
+17/06/14 05:16:34 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Name       : hdfs://localhost:9000/temp/hadoop
+Is File?   : false
+Length     : 0
+Permission : rwxr-xr-x
+*******************************
+Name       : hdfs://localhost:9000/temp/hadoop/haddooooooop
+Is File?   : false
+Length     : 0
+Permission : rwxr-xr-x
+*******************************
+Name       : hdfs://localhost:9000/temp/hadoop/haddooooooop/temppppppppp.txt
+Is File?   : true
+Length     : 0
+Permission : rw-r--r--
+*******************************
+Name       : hdfs://localhost:9000/temp/hadoop/temporaryfile.txt
+Is File?   : true
+Length     : 0
+Permission : rw-r--r--
+*******************************
+Name       : hdfs://localhost:9000/temp/hadoop1
+Is File?   : false
+Length     : 0
+Permission : rwxr-xr-x
+*******************************
+Name       : hdfs://localhost:9000/temp/hadoop1/hadoop3
+Is File?   : false
+Length     : 0
+Permission : rwxr-xr-x
+*******************************
+Name       : hdfs://localhost:9000/temp/hadoop1/hadoop3/tempfile3.txt
+Is File?   : true
+Length     : 0
+Permission : rw-r--r--
+*******************************
+Name       : hdfs://localhost:9000/temp/hadoop1/tempfile2.txt
+Is File?   : true
+Length     : 0
+Permission : rw-r--r--
+*******************************
+[acadgild@localhost ~]$ 
+
